@@ -3,27 +3,27 @@ export default {
     /**
      * The URL with extra information about the app / service.
      */
-    aboutURL: 'https://jitsi.org/what-is-jitsi/',
+    aboutURL: 'https://asta.tu-berlin.de',
 
     /**
      * The URL to the source code repository.
      */
-    sourceURL: 'https://github.com/jitsi/jitsi-meet-electron',
+    sourceURL: 'https://github.com/AStA-TU-Berlin/jitsi-meet-electron',
 
     /**
      * Application name.
      */
-    appName: 'Jitsi Meet',
+    appName: 'TU Meet',
 
     /**
      * The default server URL of Jitsi Meet Deployment that will be used.
      */
-    defaultServerURL: 'https://meet.jit.si',
+    defaultServerURL: 'https://conference.astatu.berlin',
 
     /**
      * URL to send feedback.
      */
-    feedbackURL: 'mailto:support@jitsi.org',
+    feedbackURL: 'mailto:witek@asta.tu-berlin.de',
 
     /**
      * The URL of Privacy Policy Page.
